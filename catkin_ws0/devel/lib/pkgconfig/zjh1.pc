@@ -1,0 +1,8 @@
+prefix=/home/zhang/workspace/ros_test/catkin_ws0/devel
+
+Name: zjh1
+Description: Description of zjh1
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/zhang/workspace/ros_test/catkin_ws0/devel/lib 
+Requires: 

@@ -1,0 +1,2 @@
+zjh1
+-DCATKIN_DEVEL_PREFIX=/home/zhang/workspace/ros_test/catkin_ws0/devel -DCMAKE_INSTALL_PREFIX=/home/zhang/workspace/ros_test/catkin_ws0/install -G Unix Makefiles
